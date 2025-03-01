@@ -1,2 +1,2 @@
-# JavaScript-IQ
-This Repository will contain the all the JavaScript Interview Questions
+# Interview Questions
+This Repository will contain the all the Html-CSS-JavaScript-React Interview Questions
